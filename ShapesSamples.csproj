@@ -56,15 +56,15 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\Extensions\Microsoft\Visual Studio Tools for Unity\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\AmmoBar.cs" />
+    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\ProceduralTree.cs" />
     <Compile Include="Assets\Shapes\Samples\Assets\Scripts\Crosshair.cs" />
-    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\IMColorPickerInteraction.cs" />
-    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\SpinningColorDiscs.cs" />
+    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\ChargeBar.cs" />
+    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\IMColorPickerRenderer.cs" />
+    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\AmmoBar.cs" />
     <Compile Include="Assets\Shapes\Samples\Assets\Scripts\Compass.cs" />
     <Compile Include="Assets\Shapes\Samples\Assets\Scripts\FpsController.cs" />
-    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\IMColorPickerRenderer.cs" />
-    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\ProceduralTree.cs" />
-    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\ChargeBar.cs" />
+    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\IMColorPickerInteraction.cs" />
+    <Compile Include="Assets\Shapes\Samples\Assets\Scripts\SpinningColorDiscs.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Shapes\Samples\Shapes Samples.asmdef" />
